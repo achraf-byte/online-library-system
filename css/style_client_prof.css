@@ -1,0 +1,234 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    transition: 2s;
+    min-width: 1500px;
+}
+
+.btn:hover {
+    background-position: -300px;
+    transition: 1s;
+}
+
+.spacea {
+    margin-right: 20px;
+    font-size: 20px;
+    border: none;
+    background-color: none;
+}
+
+.heddd {
+    position: relative;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: none;
+    text-align: center;
+    display: table;
+    font-size: 47px;
+    padding: 12px 56px;
+    background-color: rgba(255, 115, 0, 0.109);
+    border: 2px solid rgb(255, 102, 0);
+    border-radius: 20px;
+    color: rgb(255, 51, 0);
+}
+
+.head {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    width: 96%;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.head .logo {
+    position: relative;
+}
+
+.head .nav {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.head .nav a {
+    position: relative;
+    text-decoration: none;
+    padding: 20px 30px;
+    font-size: 29px;
+    color: rgb(46, 46, 46);
+    text-align-last: center;
+    justify-self: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.head .nav .logout {
+    background-image: linear-gradient(90deg, rgb(0, 132, 255), rgb(7, 47, 179));
+    background-size: 210px;
+    border-radius: 50px;
+    color: rgb(255, 255, 255);
+}
+
+.head .nav .logout:hover {
+    background-position: 210px;
+    transition: 1s;
+}
+
+.contaner {
+    position: relative;
+    width: 96%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contaner .books:hover {
+    -webkit-box-shadow: 8px 11px 18px -2px rgba(189, 185, 189, 1);
+    -moz-box-shadow: 8px 11px 18px -2px rgba(189, 185, 189, 1);
+    box-shadow: 8px 11px 18px -2px rgba(189, 185, 189, 1);
+    top: 2px;
+    transition: .4S;
+}
+
+.contaner .books {
+    overflow: hidden;
+    position: relative;
+    margin-top: 20px;
+    width: 700px;
+    display: block;
+    border-radius: 30px;
+    -webkit-box-shadow: 8px 11px 27px 1px rgba(189, 185, 189, 1);
+    -moz-box-shadow: 8px 11px 27px 1px rgba(189, 185, 189, 1);
+    box-shadow: 8px 11px 27px 1px rgba(189, 185, 189, 1);
+    margin: 50px 50px;
+}
+
+.space {
+    position: relative;
+    margin-right: 40px;
+    font-weight: bold;
+}
+
+.contaner .books form {
+    position: relative;
+    display: grid;
+    border-top: 2px dashed rgba(207, 207, 207, 0.513);
+    background-color: rgba(197, 197, 197, 0.11);
+}
+
+.contaner .books form input {
+    position: relative;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    padding: 10px;
+    font-size: 27px;
+    text-align: center;
+    border-radius: 20px;
+    border: 2px solid rgb(8, 0, 119);
+}
+
+.contaner .books h1,
+.contaner .books p {
+    position: relative;
+}
+
+.felss {
+    position: relative;
+    display: flex;
+    text-align: right;
+    justify-content: start;
+    width: 450px;
+    font-size: 27px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contaner .books span {
+    position: relative;
+    width: 0%;
+    height: 8px;
+    border-radius: 20px;
+    background-image: linear-gradient(90deg, rgb(0, 132, 255), rgb(7, 47, 179));
+}
+
+.contaner .books:hover span {
+    width: 98%;
+    transition: 2s;
+}
+
+.contaner .books form input:focus {
+    outline: none;
+    border: 2px solid rgb(3, 154, 255);
+    background-color: rgb(255, 255, 255);
+    transition: .2;
+}
+
+.P_top {
+    margin-top: 60px;
+    top: -60px;
+    padding-top: 60px;
+    padding-bottom: 0;
+    background-color: rgba(204, 204, 204, 0.096);
+    border-bottom: 2px dashed rgb(224, 224, 224);
+    width: 100%;
+    justify-content: center;
+}
+
+.spc2 {
+    left: -135px;
+}
+
+.top {
+    top: -30px;
+}
+
+.contaner .books form .btn {
+    position: relative;
+    border: none;
+    font-size: 27px;
+    margin-top: 26px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 200px;
+    height: 60px;
+    background-image: linear-gradient(90deg, rgb(0, 132, 255), rgb(7, 47, 179));
+    border-radius: 50px;
+    color: rgb(255, 255, 255);
+}
+
+.contaner .books form .fels {
+    position: relative;
+    display: flex;
+    text-align: right;
+    flex-wrap: wrap;
+    width: 620px;
+    font-size: 27px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contaner .books form p {
+    position: relative;
+    border: none;
+    text-align: center;
+    display: table;
+    font-size: 27px;
+    padding: 12px 56px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(60, 255, 0);
+    border-radius: 50px;
+    color: rgb(30, 255, 0);
+}

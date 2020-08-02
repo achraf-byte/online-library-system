@@ -1,0 +1,270 @@
+.mediaViewInfo {
+    --web-view-name: Web 1920 – 1;
+    --web-view-id: Web_1920___1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+
+:root {
+    --web-view-ids: Web_1920___1;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+
+#Web_1920___1 {
+    position: absolute;
+    width: 1864px;
+    height: 1020px;
+    overflow: hidden;
+    --web-view-name: Web 1920 – 1;
+    --web-view-id: Web_1920___1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+
+#Asset_2 {
+    position: absolute;
+    width: 915px;
+    height: 606px;
+    left: 906px;
+    top: 248px;
+    overflow: visible;
+}
+
+#Accueil {
+    position: absolute;
+    left: 715px;
+    top: 104px;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 37px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Nous_contacter {
+    position: absolute;
+    left: 946px;
+    top: 104px;
+    overflow: visible;
+    width: 250px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 37px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Nos_services {
+    position: absolute;
+    left: 1325px;
+    top: 104px;
+    overflow: visible;
+    width: 203px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 37px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Groupe_1 {
+    position: absolute;
+    width: 276px;
+    height: 108px;
+    left: 69px;
+    top: 54px;
+    overflow: visible;
+}
+
+#logo {
+    position: absolute;
+    width: 102px;
+    height: 102px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Online {
+    position: absolute;
+    left: 117px;
+    top: 11px;
+    overflow: visible;
+    width: 108px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 37px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Library {
+    position: absolute;
+    left: 117px;
+    top: 52px;
+    overflow: visible;
+    width: 160px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 42px;
+    color: rgba(112, 112, 112, 1);
+    letter-spacing: 0.75px;
+}
+
+#Une_biblioth_que_souhaite_info {
+    position: absolute;
+    left: 69px;
+    top: 472px;
+    overflow: visible;
+    width: 587px;
+    height: 261px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 37px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Online_p {
+    position: absolute;
+    left: 69px;
+    top: 248px;
+    overflow: visible;
+    width: 244px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 84px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Library_q {
+    position: absolute;
+    left: 69px;
+    top: 333px;
+    overflow: visible;
+    width: 311px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 82px;
+    color: rgba(112, 112, 112, 1);
+    letter-spacing: 0.75px;
+}
+
+#Groupe_2 {
+    position: relative;
+    width: 265px;
+    height: 67px;
+    left: 69px;
+    top: 787px;
+    background-image: linear-gradient(90deg, rgb(251, 255, 0), rgb(255, 94, 1));
+    background-size: 300px 67px;
+    border-radius: 50px;
+}
+
+#Groupe_2:hover {
+    background-position: -300px;
+    transition: 1s;
+}
+
+.Rectangle_1_t {
+    position: absolute;
+    overflow: visible;
+    width: 265px;
+    height: 67px;
+    left: 0px;
+    top: 0px;
+}
+
+#Commencer {
+    position: absolute;
+    left: 44px;
+    top: 15px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Segoe UI;
+    font-size: 29px;
+    color: rgb(255, 255, 255);
+    letter-spacing: -0.03px;
+}
+
+#Groupe_3 {
+    position: absolute;
+    width: 174px;
+    height: 67px;
+    left: 1647px;
+    top: 95px;
+    background-image: linear-gradient(90deg, rgb(0, 132, 255), rgb(7, 47, 179));
+    background-size: 200px 67px;
+    border-radius: 50px;
+    overflow: visible;
+}
+
+#Groupe_3:hover {
+    background-position: 200px;
+    transition: 1s;
+}
+
+.Rectangle_1_x {
+    position: absolute;
+    overflow: visible;
+    width: 174px;
+    height: 67px;
+    left: 0px;
+    top: 0px;
+}
+
+#LOGIN {
+    position: absolute;
+    left: 46px;
+    top: 15px;
+    overflow: visible;
+    width: 84px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 29px;
+    color: rgb(255, 255, 255);
+    letter-spacing: -0.03px;
+}
+
+.nav::before {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(185, 185, 183);
+}
+
+.nav::before:hover {
+    width: 100%;
+    height: 100%;
+    border-bottom: 2px solid rgb(104, 104, 104);
+    transition: 1s;
+}
